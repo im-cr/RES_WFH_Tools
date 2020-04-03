@@ -8,9 +8,12 @@ Hey everyone. I'll be updating this list but I hope it helps people find tools a
   - [Wrike](https://try.wrike.com/)
 
 ## Communication Apps
+  - [Slack](https://slack.com/)
   - [Franz](https://meetfranz.com/)
-  - [Later](https://later.com/)
+  - 
 
+## Collaboration
+  - [Miro](https://miro.com/)
 
 ## Storage Apps
    - [Pocket](https://getpocket.com/)
@@ -19,4 +22,5 @@ Hey everyone. I'll be updating this list but I hope it helps people find tools a
 
 ## Automation Tools
   - [IFTTT](https://ifttt.com/)
+  - [Later](https://later.com/)
   - [Zapier](https://zapier.com/home)
